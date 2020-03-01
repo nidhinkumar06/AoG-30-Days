@@ -17,5 +17,5 @@
 
 | Day  | Task | Status |
 | :-------------: | :------------- | :----------: |
-| Day 1  |   |  |
+| Day 1  | Designing Quality Conversation for Google Assistant  | Done |
 | Day 2  |   |  |
