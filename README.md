@@ -18,4 +18,5 @@
 | Day  | Task | Status |
 | :-------------: | :------------- | :----------: |
 | Day 1  | Designing Quality Conversation for Google Assistant  | Done |
-| Day 2  |   |  |
+| Day 2  | Tools for building better smart home actions  | Done |
+| Day 3  |   |   |
