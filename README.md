@@ -19,4 +19,5 @@
 | :-------------: | :------------- | :----------: |
 | Day 1  | Designing Quality Conversation for Google Assistant  | Done |
 | Day 2  | Tools for building better smart home actions  | Done |
-| Day 3  |   |   |
+| Day 3  | How to build actions for smart displays  | Done  |
+| Day 4  |  |  |
