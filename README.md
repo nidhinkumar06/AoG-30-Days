@@ -21,3 +21,5 @@
 | Day 2  | Tools for building better smart home actions  | Done |
 | Day 3  | How to build actions for smart displays  | Done  |
 | Day 4  | Smart Home 101 - How to develop for the connected home | Done |
+| Day 5  | Build interactive canvas for assistant | Done  |
+| Day 6  |  |  |
