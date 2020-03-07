@@ -23,4 +23,5 @@
 | Day 4  | Smart Home 101 - How to develop for the connected home | Done |
 | Day 5  | Build interactive canvas for assistant | Done  |
 | Day 6  | 10 Best practices for high quality actions | Done |
-| Day 7  |  |  |
+| Day 7  | Extend your Android App to the Google Assistant  | Done |
+| Day 8  |  |  |
