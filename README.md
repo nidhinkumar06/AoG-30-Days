@@ -24,4 +24,5 @@
 | Day 5  | Build interactive canvas for assistant | Done  |
 | Day 6  | 10 Best practices for high quality actions | Done |
 | Day 7  | Extend your Android App to the Google Assistant  | Done |
-| Day 8  |  |  |
+| Day 8  | Voice Strategy and Design | Done  |
+| Day 9  |  |   |
