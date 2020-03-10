@@ -25,5 +25,6 @@
 | Day 6  | 10 Best practices for high quality actions | Done |
 | Day 7  | Extend your Android App to the Google Assistant  | Done |
 | Day 8  | Voice Strategy and Design | Done  |
-| Day 9  | PoC - Account Linking-Part 1 | Done  |
-| Day 10 |  |  |
+| Day 9  | PoC - Account Linking-Part 1 - Dialogflow | Done  |
+| Day 10 | PoC - Account Linking-Part 2 - CloudFunctions | Done |
+| Day 11 |  |  |
