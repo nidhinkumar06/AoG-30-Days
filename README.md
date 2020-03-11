@@ -27,4 +27,5 @@
 | Day 8  | Voice Strategy and Design | Done  |
 | Day 9  | PoC - Account Linking-Part 1 - Dialogflow | Done  |
 | Day 10 | PoC - Account Linking-Part 2 - CloudFunctions | Done |
-| Day 11 |  |  |
+| Day 11 | PoC - Show Current Location using Places API - Part 1 | Done  |
+| Day 12 |  |  |
