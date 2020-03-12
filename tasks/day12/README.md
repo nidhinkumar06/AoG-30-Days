@@ -96,9 +96,8 @@ Now paste this url in Dialogflow -> Integrations -> Webhook
 
 Now if you run the application you could see the latitude and longitude details like below
 
-<div align="center">
-  <video src="../../assets/day12/location1.mp4" width="500" height="350" controls preload></video>
-</div>
+
+[Click here to watch the demo](https://firebasestorage.googleapis.com/v0/b/momtemplates.appspot.com/o/location1.mp4?alt=media&token=9ddc9d3b-1ed9-4669-b961-3d09f3c025df)
 
 Now we will use the geocoder reverse to get the address from latitude and longitude for that we will install a plugin named `node-geocoder`
 
@@ -127,9 +126,7 @@ geocoder.reverse({lat:coordinates.latitude, lon:coordinates.longitude }).then(fu
 
 Now if we deploy the latest changes and run the code we will get the output like below
 
-<div align="center">
-  <video src="../../assets/day12/location2.mp4" width="500" height="350" controls preload></video>
-</div>
+[Click here to watch the demo](https://firebasestorage.googleapis.com/v0/b/momtemplates.appspot.com/o/location2.mp4?alt=media&token=6c3ecd43-b9fd-46e8-b923-c79008907c30)
 
 
 I am able to get the latitude and longitude but before getting the address the response is completed need to figure how to wait until the background process gets completed
