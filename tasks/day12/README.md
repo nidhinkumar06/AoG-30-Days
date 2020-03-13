@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Actions on Google - Day 10</h1>
+  <h1>Actions on Google - Day 12</h1>
   <p>PoC - Show Current Location using Places API - Part 2</p>
 </div>
 
@@ -131,6 +131,23 @@ Now if we deploy the latest changes and run the code we will get the output like
 
 I am able to get the latitude and longitude but before getting the address the response is completed need to figure how to wait until the background process gets completed
 
+
+Option 2:
+
+If you don't want to use reverse geolocation google assistant helper intents will show the formatted address like below
+
+```
+const { location } = conv.device;
+conv.ask(new SimpleResponse(`Your address is ${location.formattedAddress}`))
+```
+
+You will get the output like below but it doesn't shows the current location of the user
+
+[Click here to watch the demo](https://firebasestorage.googleapis.com/v0/b/momtemplates.appspot.com/o/video_2020-03-13_21-39-23.mp4?alt=media&token=8bb42576-9a19-48b0-ab9d-b2d3b266c391)
+
+
 ### Resource Links
 
-Dialogflow get currentlocation - `https://cloudops2pm.com/2018/07/26/get-location-in-google-home-assistant-app-using-dialogflow-v2-api/`
+[Dialogflow get currentlocation](https://cloudops2pm.com/2018/07/26/get-location-in-google-home-assistant-app-using-dialogflow-v2-api/)
+
+[Dialogflow conversational helpers](https://developers.google.com/assistant/conversational/helpers)
