@@ -48,3 +48,7 @@ Once it is done create a new intent named `datetime_handler` and enable the date
 <div align="center">
   <img src="../../assets/day13/datetime_handler.png" alt="AoG" height="300">
 </div>
+
+Now we have done with the dialogflow setup next we will set up the cloud function for this actions.
+
+Catch it up on Day 14 post
