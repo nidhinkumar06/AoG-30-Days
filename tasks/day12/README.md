@@ -3,7 +3,7 @@
   <p>PoC - Show Current Location using Places API - Part 2</p>
 </div>
 
-We will continue for the Day 11 of adding the cloud functions to show the current location of a user
+We will continue for the Day 12 of adding the cloud functions to show the current location of a user
 
 Create a new directory in your local machine and initialize the firebase cloud functions using the below command
 

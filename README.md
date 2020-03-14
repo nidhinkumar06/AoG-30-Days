@@ -30,4 +30,5 @@
 | Day 11 | PoC - Show Current Location using Places API - Part 1 | Done  |
 | Day 12 | PoC - Show Current Location using Places API - Part 2 | Done |
 | Day 13 | PoC - Date Time Conversation helper - Part 1  | Done |
-| Day 14 |  |  |
+| Day 14 | PoC - Date Time Conversation helper - Part 2 | Done |
+| Day 15 |  |  |
