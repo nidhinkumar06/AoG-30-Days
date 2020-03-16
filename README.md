@@ -32,4 +32,5 @@
 | Day 13 | PoC - Date Time Conversation helper - Part 1  | Done |
 | Day 14 | PoC - Date Time Conversation helper - Part 2 | Done |
 | Day 15 | PoC - Interactive Canvas-Basics - Part 1 | Done |
-| Day 16 |  |   |
+| Day 16 | PoC - Interactive Canvas-Basics - Part 2 | Done  |
+| Day 17 |   |   |
