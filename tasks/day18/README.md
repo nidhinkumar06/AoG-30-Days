@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Actions on Google - Day 17</h1>
+  <h1>Actions on Google - Day 18</h1>
   <p>PoC - Interactive Canvas-Stone-Paper-Scissor - Part 1</p>
 </div>
 

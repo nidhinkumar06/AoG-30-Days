@@ -35,4 +35,5 @@
 | Day 16 | PoC - Interactive Canvas-Basics - Part 2 | Done  |
 | Day 17 | PoC - Interactive Canvas-Basics - Part 3  | Done  |
 | Day 18 | PoC - Interactive Canvas-Stone-Paper-Scissor - Part 1 | Done |
-| Day 19 |  |  |
+| Day 19 | PoC - Interactive Canvas-Stone-Paper-Scissor - Part 2 | Done |
+| Day 20 |   |  |
