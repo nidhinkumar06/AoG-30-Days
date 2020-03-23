@@ -39,4 +39,5 @@
 | Day 20 | Poc - Interactive Canvas-Stone-Paper-Scissor - Part 3 | Done |
 | Day 21 | Deconstructing Chatbots - Part 1  | Done  |
 | Day 22 | Deconstructing Chatbots - Part 2  | Done  |
-| Day 23 |   |   |
+| Day 23 | Deconstructing Chatbots - Part 3  | Done  |
+| Day 24 |   |   |
