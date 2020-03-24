@@ -40,4 +40,5 @@
 | Day 21 | Deconstructing Chatbots - Part 1  | Done  |
 | Day 22 | Deconstructing Chatbots - Part 2  | Done  |
 | Day 23 | Deconstructing Chatbots - Part 3  | Done  |
-| Day 24 |   |   |
+| Day 24 | Deconstructing Chatbots - Part 4  | Done  |
+| Day 25 |   |   |
