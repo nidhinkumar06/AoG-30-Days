@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Actions on Google - Day 25</h1>
-  <p>PoC - Session Scheduler with Google Calendar</p>
+  <p>PoC - Session Scheduler with Google Calendar - Part 2</p>
 </div>
 
 We will create an Session Scheduler action by creating an event in Google Calendar

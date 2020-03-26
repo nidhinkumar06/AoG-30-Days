@@ -41,5 +41,6 @@
 | Day 22 | Deconstructing Chatbots - Part 2  | Done  |
 | Day 23 | Deconstructing Chatbots - Part 3  | Done  |
 | Day 24 | Deconstructing Chatbots - Part 4  | Done  |
-| Day 25 | PoC - Session Scheduler with Google Calendar  | Done  |
-| Day 26 |   |   |
+| Day 25 | PoC - Session Scheduler with Google Calendar - Part 1 | Done  |
+| Day 26 | PoC - Session Scheduler with Google Calendar - Part 2  | Done  |
+| Day 27 |   |   |
