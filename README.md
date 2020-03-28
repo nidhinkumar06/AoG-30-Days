@@ -44,4 +44,5 @@
 | Day 25 | PoC - Session Scheduler with Google Calendar - Part 1 | Done  |
 | Day 26 | PoC - Session Scheduler with Google Calendar - Part 2  | Done  |
 | Day 27 | PoC - Session Scheduler with Google Calendar - Part 3  | Done  |
-| Day 28 |   |   |
+| Day 28 | PoC - Session Scheduler with BigQuery - Part 4  | Done  |
+| Day 29 |  |
