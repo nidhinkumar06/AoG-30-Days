@@ -46,4 +46,4 @@
 | Day 27 | PoC - Session Scheduler with Google Calendar - Part 3  | Done  |
 | Day 28 | PoC - Session Scheduler with BigQuery - Part 4  | Done  |
 | Day 29 | PoC - Session Scheduler with BigQuery - Part 5 | Done |
-| Day 30 |   |  |
+| Day 30 | Deconstructing Chatbots - Part 5  | Done |
