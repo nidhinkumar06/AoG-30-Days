@@ -57,6 +57,8 @@ Now if you test the action you can see the output like below
   <img src="../../assets/day30/output.jpg" alt="AoG" height="300">
 </div>
 
+# Reference Links
 
+[Deconstructing Chatbots - FAQ Knowledgebase](https://youtu.be/kF33Ime0a2k?list=PLIivdWyY5sqK5SM34zbkitWLOV-b3V40B)
 
 
